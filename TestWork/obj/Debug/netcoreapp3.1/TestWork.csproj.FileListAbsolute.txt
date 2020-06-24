@@ -1,0 +1,13 @@
+C:\Users\TikTaq'to\source\repos\TestWork\TestWork\bin\Debug\netcoreapp3.1\TestWork.exe
+C:\Users\TikTaq'to\source\repos\TestWork\TestWork\bin\Debug\netcoreapp3.1\TestWork.deps.json
+C:\Users\TikTaq'to\source\repos\TestWork\TestWork\bin\Debug\netcoreapp3.1\TestWork.runtimeconfig.json
+C:\Users\TikTaq'to\source\repos\TestWork\TestWork\bin\Debug\netcoreapp3.1\TestWork.runtimeconfig.dev.json
+C:\Users\TikTaq'to\source\repos\TestWork\TestWork\bin\Debug\netcoreapp3.1\TestWork.dll
+C:\Users\TikTaq'to\source\repos\TestWork\TestWork\bin\Debug\netcoreapp3.1\TestWork.pdb
+C:\Users\TikTaq'to\source\repos\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.csprojAssemblyReference.cache
+C:\Users\TikTaq'to\source\repos\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.csproj.CoreCompileInputs.cache
+C:\Users\TikTaq'to\source\repos\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.AssemblyInfoInputs.cache
+C:\Users\TikTaq'to\source\repos\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.AssemblyInfo.cs
+C:\Users\TikTaq'to\source\repos\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.dll
+C:\Users\TikTaq'to\source\repos\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.pdb
+C:\Users\TikTaq'to\source\repos\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.genruntimeconfig.cache

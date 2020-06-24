@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TikTaq'to\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TikTaq'to\\.nuget\\packages"
+    ]
+  }
+}
